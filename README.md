@@ -1,7 +1,7 @@
 # Tangram_Solver_DFS
 
 ## Project Explanation
-[Pdf explanation](report.pdf)
+[Pdf explanation](Report.pdf)
 
 ## Install dependencies
 
