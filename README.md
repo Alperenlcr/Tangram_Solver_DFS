@@ -14,7 +14,7 @@
 
 ## Code Explanation
 
-# Image Format Manipulation with format_images.py
+### Image Format Manipulation with format_images.py
 
 The `format_images.py` script offers a collection of functions to manipulate and analyze image files using the Python Imaging Library (PIL). Here's a quick overview of each function's role:
 
@@ -30,7 +30,7 @@ The code is accompanied by informative comments that guide users on how to emplo
 
 ---
 
-# Tangram Puzzle Solver with main.py
+### Tangram Puzzle Solver with main.py
 
 The `main.py` script is designed to solve tangram puzzles using a specialized depth-first search approach. Here's a concise breakdown of its functionalities:
 
